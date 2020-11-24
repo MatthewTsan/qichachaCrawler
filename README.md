@@ -16,7 +16,7 @@ A software to search and download company information, and generate Excel report
   - [Run from Source code](#run-from-source-code)
   - [Generate exe File](#generate-.exe-file)
   - [Report](#report)
-- [Maintainers](#maintainers)
+- [Maintenance](#maintenance)
 - [License](#license)
 
 ## Functions
@@ -68,7 +68,7 @@ The software will create a ./result folder and generate a report under it.
 For each company shareholder change, it will generate a new line.
 
 
-## Maintance
+## Maintenance
 
 The Qichacha website will change their website style sometimes. This software is not guarentieed that the website anylize part is up-to-date. If you would like to use the software, please check that part.
 
