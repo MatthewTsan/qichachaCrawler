@@ -11,15 +11,12 @@ A software to search and download company information, and generate Excel report
 
 ## Table of Contents
 
-- [Background](#background)
-- [Install](#install)
-- [Usage](#usage)
-  - [Generator](#generator)
-- [Badge](#badge)
-- [Example Readmes](#example-readmes)
-- [Related Efforts](#related-efforts)
+- [Functions](#funcitons)
+- [Build and Run](#build-and-run)
+  - [Run from Source code](#run-from-source-code)
+  - [Generate exe File](#generate-.exe-file)
+  - [Report](#report)
 - [Maintainers](#maintainers)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Functions
@@ -64,7 +61,7 @@ pyinstaller --onefile main.py
 + config.cfg
 + test file with Excel format
 
-## Report
+### Report
 
 The software will create a ./result folder and generate a report under it. 
 
